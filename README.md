@@ -1,5 +1,5 @@
 README
-======
+------
 
 This repository gathers different map (elements of) projects made with and around the Knight Foundation course for journalists about GIS and Mapping, using the QGIS software. 
 
@@ -8,10 +8,10 @@ Although it doesn't provide the essential reproducibility features of R programm
 
 
 Detail of Maps of this repo: goal, skills, sources
----------------------------------------------------
+==================================================
 
 **First map**
-=============
+-------------
 
 - Importing files
 - Understanding shapefiles
@@ -22,7 +22,7 @@ Detail of Maps of this repo: goal, skills, sources
 
 
 **Fertility rates by country in the world**
-===================
+-------------------------------------------
 
 Making a choropleth map showing the fertility rates across the globe.
 
@@ -39,7 +39,7 @@ Sources:
 
 
 **San Marino**
-==============
+--------------
 
 This map intends to show a dot-density map for the small state of San Marino: each point represents here an habitant.
 
@@ -54,7 +54,7 @@ Source:
 
 
 **Airports**
-============
+------------
 
 The idea is to run a point-in-polygon analysis so as compute and visualize how many airports are in each country.
 
@@ -72,9 +72,9 @@ Sources:
 
 
 US hospitals
-============
+------------
 
 Showing US hospitals on a map and creating point buffers.
 
 Sources:
-<https://hifld-geoplatform.opendata.arcgis.com>
+<https://hifld-geoplatform.opendata.arcgis.com/datasets/hospitals> (spreadshit)
