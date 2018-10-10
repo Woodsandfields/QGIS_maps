@@ -1,12 +1,15 @@
 README
 ------
 
-This repository gathers different (elements of) mapping projects made with QGIS software.  
+This repository gathers different (elements of) mapping projects made with QGIS software.
+
+QGIS is a free and open-source popular cross-platform desktop GIS application allowing plugins written in Python and C++. GIS stands for "geographic information system". It is a system designed to capture, store, manipulate, analyze, manage, and present spatial or geographic data. GIS applications are tools that allow users to create interactive queries (user-created searches), analyze spatial information, edit data in maps, and present the results of all these operations.
+
 Those projects are essentially practice maps made during and after a Knight Foundation course for journalists about GIS and Mapping, using the QGIS software. 
 
-This README gives indication about what to find in the folders, as well as the skills and sources that have been used for the final maps. 
+Although the final maps might look quite rudimentary for a bunch of them, this README gives indication about what to concretely find in the folders, as well as the skills and sources that have been used for the results. 
 
-Although it doesn't provide the essential reproducibility features of R programming and its packages dedicated to plots and maps (sf, ggplot2, etc.), QGIS is a highly powerful program used by journalists from the greatest newspapers around the world as a wonderful not only illustration, but also investigation tool. That's why learning it with the Knight Foundation for journalists was a great choice.
+QGIS doesn't provide the essential reproducibility features of R programming and its related packages dedicated to plots and maps (sf, ggplot2, etc.). And yet, QGIS is a highly powerful program used by many corporations and organizations, among them many journalists from the greatest newspapers around the world as it provides a wonderful not only illustration, but also investigation tool. That's why learning it with the Knight Foundation for journalists was a great choice. The course itself provided additional examples and reflections about the use of maps in journalism and the way they could be exploited to achieve great results.
 
 
 Detail of map folders in this repo: goal, skills, sources
