@@ -74,7 +74,31 @@ Sources:
 US hospitals
 ------------
 
-Showing US hospitals on a map and creating point buffers.
+Showing US hospitals on a map and creating point buffers to show how many people in the country live within35 miles of a hospital.
+
+- importing properly a csv file that has longitude and latitude as factors as a delimited-text layer.
+- modify symbols.
+- create buffer zones bu using the vector geoprocessing tool buffer for the desired layer.
+- convert from degrees to miles (1°=70 miles or 110 km)
+- change layer hierarchy to see both hospitals and buffer zones
+- export/save buffer layer independently to shapefile in order to have the possibility to later play with several buffers 
 
 Sources:
 <https://hifld-geoplatform.opendata.arcgis.com/datasets/hospitals> (spreadshit)
+
+<https://www.naturalearthdata.com/downloads/> (small scale, Cultural)
+
+
+geocoding health services Austin 
+================================
+
+Goal: Geocode data about health services in Austin to map them
+
+Skills:
+- import csv files with addresses into a geocoding service and set parameters to get geolocation
+
+
+Sources:
+<https://www.geocod.io/> for geocoding
+<https://data.austintexas.gov/> (Austin Public Health Location, Export CSV)
+
