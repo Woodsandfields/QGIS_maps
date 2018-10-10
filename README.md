@@ -9,8 +9,8 @@ This README gives indication about what to find in the folders, as well as the s
 Although it doesn't provide the essential reproducibility features of R programming and its packages dedicated to plots and maps (sf, ggplot2, etc.), QGIS is a highly powerful program used by journalists from the greatest newspapers around the world as a wonderful not only illustration, but also investigation tool. That's why learning it with the Knight Foundation for journalists was a great choice.
 
 
-Detail of Maps of this repo: goal, skills, sources
-==================================================
+Detail of map folders in this repo: goal, skills, sources
+==========================================================
 
 **First map**
 -------------
