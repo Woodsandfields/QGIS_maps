@@ -28,10 +28,10 @@ Making a choropleth map showing the fertility rates across the globe.
 
 Skills learned:
 - explore the World Bank databases by indicator
-- merging two files for a map with additional features
+- merge two files for a map with additional features by identify relatable factors and adding a layer
 - set the right parameters for a successful choropleth map with the symbology property
-- setting the breaks manually instead of automatically
-- reflecting on the choice of colors and the number of breaks. 
+- set the breaks manually instead of automatically
+- reflect on the choice of colors and the number of breaks. 
 
 Sources: 
 <https://www.naturalearthdata.com/downloads/> (Small Scale 1:110m,Cultural); 
