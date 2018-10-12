@@ -54,7 +54,7 @@ This map intends to show a dot-density map for the small state of San Marino: ea
 Skills learned:
 - isolate a country from a world map to create a new map, 
 - exploit the corresponding csv file, modify if necessary from within QGIS
-- shape the dot-density map appropriately.
+- shape the dot-density map appropriately with the vector research random point in polygon function.
 
 Source: 
 - <https://www.naturalearthdata.com/downloads/> 
