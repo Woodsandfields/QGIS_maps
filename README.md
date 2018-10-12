@@ -105,4 +105,16 @@ Skills:
 Sources:
 - <https://www.geocod.io/> for geocoding
 - <https://data.austintexas.gov/> (Austin Public Health Location, Export CSV)
--  several datasets from www.naturalearthdata.com: countries, rivers, North America roads, urban areas.
+-  several datasets from www.naturalearthdata.com (physical and cultural): countries, rivers, North America roads, urban areas.
+
+Simplifying maps
+----------------
+
+Goal: simplify maps to get to the adequate level of details and save on file size, e.g. in order to publish it on the web
+
+Skills:
+- simplify within QGIS with the vector simplify function properly parametered and saving of the created layer
+- simplify with mapshaper.org
+
+Source:
+- Naturalearthdata.com, countries (as usual)
