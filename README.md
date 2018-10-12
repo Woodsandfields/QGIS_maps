@@ -59,7 +59,7 @@ Source:
 
 
 
-**Airports**
+**Country Airports**
 ------------
 
 The idea is to run a point-in-polygon analysis so as compute and visualize how many airports are in each country.
@@ -74,6 +74,7 @@ Sources:
 - <https://www.naturalearthdata.com/downloads/10m-cultural-vectors/> (scroll down to 'Airport' section)
 - <https://www.naturalearthdata.com/downloads/> (large scale data 1:10m, Cultural)
 
+![final Airport Map](https://github.com/Woodsandfields/QGIS_maps/blob/master/COUNTRY_AIRPORTS/worldMap_with_airports.png)
 
 US hospitals
 ------------
