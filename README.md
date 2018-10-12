@@ -114,7 +114,11 @@ Goal: simplify maps to get to the adequate level of details and save on file siz
 
 Skills:
 - simplify within QGIS with the vector simplify function properly parametered and saving of the created layer
-- simplify with mapshaper.org
+- simplify with mapshaper.org	
+- organize the folder with different parameters/layers/shapefiles
+- know the 0-100, 0-1 scale and its impact on the level of detail, as well as the different ways to choose
+- consider different simplication models
 
 Source:
 - Naturalearthdata.com, countries (as usual)
+- mapshaper.org (tool)
