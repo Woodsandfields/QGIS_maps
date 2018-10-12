@@ -5,11 +5,13 @@ This repository gathers different (elements of) mapping projects made with QGIS 
 
 QGIS is a free and open-source popular cross-platform desktop GIS application allowing plugins written in Python and C++. GIS stands for "geographic information system". It is a system designed to capture, store, manipulate, analyze, manage, and present spatial or geographic data. GIS applications are tools that allow users to create interactive queries (user-created searches), analyze spatial information, edit data in maps, and present the results of all these operations.
 
-Those projects are essentially practice maps made during and after a Knight Foundation course for journalists about GIS and Mapping, using the QGIS software. 
+These repository projects are essentially practice maps made during, around, and after a Knight Foundation course for journalists about GIS and Mapping, using the QGIS software. 
 
-Although the final maps might look quite rudimentary for a bunch of them, this README gives indication about what to concretely find in the folders, as well as the skills and sources that have been used for the results. 
+Although the maps might look rudimentary, this README will help you navigate through the projects and learn what they intend to achieve, as well as the skills and sources that have been used for the results. I have finalized the maps presented in this document as an illustration for the projects. Previous versions of these maps are to be found in addition in the different folders.
 
-QGIS doesn't provide the essential reproducibility features of R programming and its related packages dedicated to plots and maps (sf, ggplot2, etc.). And yet, QGIS is a highly powerful program used by many corporations and organizations, among them many journalists from the greatest newspapers around the world as it provides a wonderful not only illustration, but also investigation tool. That's why learning it with the Knight Foundation for journalists was a great choice. The course itself provided additional examples and reflections about the use of maps in journalism and the way they could be exploited to achieve great results.
+QGIS doesn't provide the essential reproducibility features of R programming and R's packages for plots and maps (sf, ggplot2, etc.). Yet, QGIS is a powerful program used by many corporations and organizations, among them many journalists from the greatest newspapers around the world as it provides a wonderful tool not only for illustration, but also for investigation. Further coding through GeoJSON might even lead to greater results. 
+
+That's why learning QGIS with the Knight Foundation for journalists was a great choice. The course itself provided additional readings, videos, examples, reflections, and occasions of debate about the use of maps in contemporary journalism.
 
 
 Detail of map folders in this repo: goal, skills, sources
@@ -60,21 +62,22 @@ Source:
 
 
 **Country Airports**
-------------
+---------------------
 
 The idea is to run a point-in-polygon analysis so as compute and visualize how many airports are in each country.
 
 Skills:
 - explore further the Natural Earth website databases
 - use the "count-points-in-polygon" VECTOR analysis tool
-- use the attribute table of the count layer for choropleth maps
+- use the attribute table of the count layer for choropleth maps 
 - save the count layer to a distinct shapefile for later use
 
 Sources:
 - <https://www.naturalearthdata.com/downloads/10m-cultural-vectors/> (scroll down to 'Airport' section)
 - <https://www.naturalearthdata.com/downloads/> (large scale data 1:10m, Cultural)
 
-![final Airport Map](https://github.com/Woodsandfields/QGIS_maps/blob/master/COUNTRY_AIRPORTS/worldMap_with_airports.png)
+![final Airport Map](https://github.com/Woodsandfields/QGIS_maps/blob/master/COUNTRY_AIRPORTS/WorldAirports.png)
+Comment on the map: I set breaks manually in order to reflect the high disparity between countries, choosing blue to represent air.
 
 US hospitals
 ------------
@@ -109,6 +112,8 @@ Sources:
 -  several datasets from www.naturalearthdata.com (physical and cultural): countries, rivers, North America roads, urban areas.
 
 ![Austin area and health services](https://github.com/Woodsandfields/QGIS_maps/blob/master/GEOCODING_AUSTIN/Austin_Public_Health_Services_locations.png)
+
+Comment on the map: Added roads, river, and urban area to help the data make sense within an identifiable urban environment.
 
 
 Simplifying maps
