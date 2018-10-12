@@ -95,12 +95,13 @@ Sources:
 
 
 geocoding health services Austin 
-================================
+--------------------------------
 
 Goal: Geocode data about health services in Austin to map them
 
 Skills:
 - import csv files with addresses into a geocoding service and set parameters to get geolocation
+- import geocoded data into QGIS like a normal text limited file with geometry, and check for errors
 
 
 Sources:
