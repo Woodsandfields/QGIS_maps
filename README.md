@@ -108,6 +108,9 @@ Sources:
 - <https://data.austintexas.gov/> (Austin Public Health Location, Export CSV)
 -  several datasets from www.naturalearthdata.com (physical and cultural): countries, rivers, North America roads, urban areas.
 
+![Austin area and health services](https://github.com/Woodsandfields/QGIS_maps/blob/master/GEOCODING_AUSTIN/Austin_Public_Health_Services_locations.png)
+
+
 Simplifying maps
 ----------------
 
