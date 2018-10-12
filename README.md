@@ -23,7 +23,8 @@ Detail of map folders in this repo: goal, skills, sources
 - Discovering the QGIS interface and the diverse selection tools
 - Accessing the attribute table and exploring properties
 
-<https://www.naturalearthdata.com/downloads/> (small scale map, cultural)
+Sources:
+- <https://www.naturalearthdata.com/downloads/> (small scale map, cultural)
 
 
 **Fertility rates by country in the world**
@@ -39,8 +40,8 @@ Skills learned:
 - reflect on the choice of colors and the number of breaks. 
 
 Sources: 
-<https://www.naturalearthdata.com/downloads/> (Small Scale 1:110m,Cultural); 
-<http://www.worldbank.org/> (fertility indicator)
+- <https://www.naturalearthdata.com/downloads/> (Small Scale 1:110m,Cultural)
+- <http://www.worldbank.org/> (fertility indicator)
 
 
 **San Marino**
@@ -54,7 +55,7 @@ Skills learned:
 - shape the dot-density map appropriately.
 
 Source: 
-<<https://www.naturalearthdata.com/downloads/> 
+- <https://www.naturalearthdata.com/downloads/> 
 
 
 
@@ -70,10 +71,8 @@ Skills:
 - save the count layer to a distinct shapefile for later use
 
 Sources:
-
-<https://www.naturalearthdata.com/downloads/10m-cultural-vectors/> (scroll down to 'Airport' section)
-
-<https://www.naturalearthdata.com/downloads/> (large scale data 1:10m, Cultural)
+- <https://www.naturalearthdata.com/downloads/10m-cultural-vectors/> (scroll down to 'Airport' section)
+- <https://www.naturalearthdata.com/downloads/> (large scale data 1:10m, Cultural)
 
 
 US hospitals
@@ -89,9 +88,8 @@ Showing US hospitals on a map and creating point buffers to show how many people
 - export/save buffer layer independently to shapefile in order to have the possibility to later play with several buffers 
 
 Sources:
-<https://hifld-geoplatform.opendata.arcgis.com/datasets/hospitals> (spreadshit)
-
-<https://www.naturalearthdata.com/downloads/> (small scale, Cultural)
+- <https://hifld-geoplatform.opendata.arcgis.com/datasets/hospitals> (spreadshit)
+- <https://www.naturalearthdata.com/downloads/> (small scale, Cultural)
 
 
 geocoding health services Austin 
@@ -105,6 +103,6 @@ Skills:
 
 
 Sources:
-<https://www.geocod.io/> for geocoding
-<https://data.austintexas.gov/> (Austin Public Health Location, Export CSV)
-
+- <https://www.geocod.io/> for geocoding
+- <https://data.austintexas.gov/> (Austin Public Health Location, Export CSV)
+-  several datasets from www.naturalearthdata.com: countries, rivers, North America roads, urban areas.
