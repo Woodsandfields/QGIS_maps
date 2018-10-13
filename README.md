@@ -45,6 +45,8 @@ Sources:
 - <https://www.naturalearthdata.com/downloads/> (Small Scale 1:110m,Cultural)
 - <http://www.worldbank.org/> (fertility indicator)
 
+![Fertility Map](https://github.com/Woodsandfields/QGIS_maps/blob/master/WORLD_FERTILITY/World%20Fertility%20Rates.png)
+*Comment on the map:* I used "pretty breaks" to make it less statistical and more casual: How many children do women have? I tried to select soft font and colors that would work warm enough without giving in to stereotypes, yet reminding the viewer that women, not households, are the main subject of this statistic.
 
 **San Marino**
 --------------
