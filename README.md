@@ -59,7 +59,9 @@ Skills learned:
 Source: 
 - <https://www.naturalearthdata.com/downloads/> 
 
+![San Marino Map](https://github.com/Woodsandfields/QGIS_maps/blob/master/SAN_MARINO/SanMarino.png)
 
+*Comment on the map:* the blue is the official blue of San Marino. I tried to find a symbol with size and color that would both render people and let them be visible enough individually.
 
 **Country Airports**
 ---------------------
@@ -77,7 +79,7 @@ Sources:
 - <https://www.naturalearthdata.com/downloads/> (large scale data 1:10m, Cultural)
 
 ![final Airport Map](https://github.com/Woodsandfields/QGIS_maps/blob/master/COUNTRY_AIRPORTS/WorldAirports.png)
-Comment on the map: I set breaks manually in order to reflect the high disparity between countries, choosing blue to represent air.
+*Comment on the map*: I set breaks manually in order to reflect the high disparity between countries, choosing blue to represent air.
 
 US hospitals
 ------------
@@ -113,7 +115,7 @@ Sources:
 
 ![Austin area and health services](https://github.com/Woodsandfields/QGIS_maps/blob/master/GEOCODING_AUSTIN/Austin_Public_Health_Services_locations.png)
 
-Comment on the map: Added roads, river, and urban area to help the data make sense within an identifiable urban environment.
+*Comment on the map*: Added roads, river, and urban area to help the data make sense within an identifiable urban environment.
 
 
 Simplifying maps
