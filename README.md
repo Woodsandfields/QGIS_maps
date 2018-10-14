@@ -46,6 +46,7 @@ Making a choropleth map showing the fertility rates across the globe.
 - <http://www.worldbank.org/> (fertility indicator)
 
 *Comment on the map:* I used "pretty breaks" to make it less statistical and more casual: How many children do women have? I tried to select soft font and colors that would work warm enough without giving in to stereotypes, yet reminding the viewer that women, not households, are the main subject of this statistic.
+
 ![Fertility Map](https://github.com/Woodsandfields/QGIS_maps/blob/master/WORLD_FERTILITY/World%20Fertility%20Rates.png)
 
 **San Marino**
