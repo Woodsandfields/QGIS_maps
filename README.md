@@ -3,11 +3,18 @@ README
 
 **This repository gathers different (elements of) mapping projects made with QGIS software.**
 
+
+{  ++++:style="float: right;margin-right: 7px;margin-top: 7px;" +++ }
+
+< ++++img align="right" src="doc/subpagelist.png"+++++ >
+
+<img align = "right" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/GEOCODING_AUSTIN/Austin_Public_Health_Services_locations.png" alt="Austin map" width="50"/>
+
 **QGIS is a free and open-source popular cross-platform desktop GIS application** allowing plugins written in Python and C++. GIS stands for "geographic information system". It is a system designed to capture, store, manipulate, analyze, manage, and present spatial or geographic data. GIS applications are tools that allow users to create interactive queries (user-created searches), analyze spatial information, edit data in maps, and present the results of all these operations.
 
 These repository projects are essentially practice maps made **during, around, and after a Knight Foundation course for journalists about GIS and Mapping**, using the QGIS software. 
 
-Although the maps might look rudimentary, this README will help you navigate through the projects and learn what they intend to achieve, as well as the skills and sources that have been used for the results. I have finalized the maps presented in this document as an illustration for the projects. Previous versions of these maps made for training on the go are to be found in addition in the different folders.
+Although the maps might look rudimentary, **this README will help you** navigate through the projects and learn what they intend to achieve, as well as the skills and sources that have been used for the results. I have finalized the maps presented in this document as an illustration for the projects. Previous versions of these maps made for training on the go are to be found in addition in the different folders.
 
 QGIS doesn't provide the essential reproducibility features that R programming offers together with R's packages for plots and maps (sf, ggplot2, etc.). Yet, **QGIS is a powerful program used by many corporations and organizations, among them many journalists from the greatest newspapers** around the world as it provides a wonderful tool not only for illustration, but also for investigation. Further coding through GeoJSON leads even to greater results. 
 
@@ -146,6 +153,6 @@ Simplifying maps helps get to the adequate level of details while saving on file
 
 *Comment on the maps:* I played around with the print layer interface to produce those documents. I chose to focus on a small region to see how simplification plays at a restricted level, - and on a world view, because it looks good. Many other options were possible. I chose to use only one kind of simplification method because the two available produce quite the same details. 
 
-![The Silicon Valley Region](https://github.com/Woodsandfields/QGIS_maps/blob/master/MAPS_SIMPLIFIED/LA_SanDiego_Region.png)
-
 ![Simplifying the world map](https://github.com/Woodsandfields/QGIS_maps/blob/master/MAPS_SIMPLIFIED/severalDegreesOfSimplicationMapShaper.png) 
+
+![The Silicon Valley Region](https://github.com/Woodsandfields/QGIS_maps/blob/master/MAPS_SIMPLIFIED/LA_SanDiego_Region.png)
