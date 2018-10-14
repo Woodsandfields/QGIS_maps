@@ -143,3 +143,9 @@ Simplifying maps helps get to the adequate level of details while saving on file
 *Source:*
 - Naturalearthdata.com, countries (as usual)
 - mapshaper.org (tool)
+
+*Comment on the maps:* I played around with the print layer interface to produce those documents. I chose to focus on a small region to see how simplification plays at a restricted level, - and on a world view, because it looks good. Many other options were possible. I chose to use only one kind of simplification method because the two available produce quite the same details. 
+
+![The Silicon Valley Region](https://github.com/Woodsandfields/QGIS_maps/blob/master/MAPS_SIMPLIFIED/LA_SanDiego_Region.png)
+
+![Simplifying the world map](https://github.com/Woodsandfields/QGIS_maps/blob/master/MAPS_SIMPLIFIED/severalDegreesOfSimplicationMapShaper.png) 
