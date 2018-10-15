@@ -3,7 +3,7 @@ README
 
 **This repository gathers different (elements of) mapping projects made with QGIS software.**
 
-<a href="Fertility map">Go to 'Fertility map' folder presentation and map</a>
+<a href="Fertility map">Go to 'World Fertility' presentation + map</a>
 
  <img align = "right" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/COUNTRY_AIRPORTS/WorldAirports.png" alt="Airport map" width="200"/> **QGIS is a free and open-source popular cross-platform desktop GIS application** allowing plugins written in Python and C++. GIS stands for "geographic information system". It is a system designed to capture, store, manipulate, analyze, manage, and present spatial or geographic data.
 
@@ -33,11 +33,11 @@ Repo folder detail: goal, skills, sources, maps
 <img align="center" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/THEFIRSTMAP/physicalRegions.png" /><img align="center" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/THEFIRSTMAP/AtlanticCountries.png"  /><img align="center" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/THEFIRSTMAP/Europe.png"  /><img align="center" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/THEFIRSTMAP/Tropics.png"  />
 
 
-<div id="Fertility map"></div>
 **Fertility rates by country in the world**
 -------------------------------------------
 
-Making a choropleth map showing the fertility rates across the globe.
+<div id="Fertility map">
+Making a choropleth map showing the fertility rates across the globe.</div>
 
 *Skills learned:*
 - explore the World Bank databases by indicator
