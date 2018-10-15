@@ -51,7 +51,7 @@ First map
 *Sources:*
 - <https://www.naturalearthdata.com/downloads/> (small scale map, cultural)
 
-*Comment on the map*: I played with the label function and made several maps using different parameters and various files from naturalearthdata.com. You can [find them here](https://github.com/Woodsandfields/QGIS_maps/blob/master/THEFIRSTMAP/README.md)
+*Comment on the map*: I played with the label function and made several maps using different parameters and various files from naturalearthdata.com. You can [find them here.](https://github.com/Woodsandfields/QGIS_maps/blob/master/THEFIRSTMAP/README.md)
 ![first map](https://github.com/Woodsandfields/QGIS_maps/blob/master/THEFIRSTMAP/Tropics.png)
 
 
