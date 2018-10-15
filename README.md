@@ -4,19 +4,19 @@ README
 **This repository gathers different (elements of) mapping projects made with QGIS software.**
 
 
- <img align = "right" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/COUNTRY_AIRPORTS/WorldAirports.png" alt="Airport map" width="200"/> **QGIS is a free and open-source popular cross-platform desktop GIS application** allowing plugins written in Python and C++. GIS stands for "geographic information system". It is a system designed to capture, store, manipulate, analyze, manage, and present spatial or geographic data. GIS applications are tools that allow users to create interactive queries (user-created searches), analyze spatial information, edit data in maps, and present the results of all these operations.
+ <img align = "right" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/COUNTRY_AIRPORTS/WorldAirports.png" alt="Airport map" width="200"/> **QGIS is a free and open-source popular cross-platform desktop GIS application** allowing plugins written in Python and C++. GIS stands for "geographic information system". It is a system designed to capture, store, manipulate, analyze, manage, and present spatial or geographic data.
 
 These repository projects are essentially practice maps made **during, around, and after a Knight Foundation course for journalists about GIS and Mapping**, using the QGIS software. 
 
-Although the maps might look rudimentary, **this README will help you** navigate through the projects and learn what they intend to achieve, as well as the skills and sources that have been used for the results. I have finalized the maps presented in this document as an illustration for the projects. Previous versions of these maps made for training on the go are to be found in addition in the different folders.
+Although the maps might look rudimentary, **this README will help you** navigate through the projects and learn what they intend to achieve. I have finalized the maps presented here as an illustration for the projects. Previous versions of these maps made on the go during training are to be found in the different folders.
 
 <img align="right" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/HOSPITALS/US_hospitals_FINAL_MAP.png" width="200"/> QGIS doesn't provide the essential reproducibility features that R programming offers together with R's packages for plots and maps (sf, ggplot2, etc.). Yet, **QGIS is a powerful program used by many corporations and organizations, among them many journalists from the greatest newspapers** around the world as it provides a wonderful tool not only for illustration, but also for investigation. Further coding through GeoJSON leads even to greater results. 
 
-That's why **learning QGIS with the Knight Foundation for journalists was a great choice:** The course itself provided additional readings, videos, examples, reflections, and occasions of debate about the use of maps in contemporary journalism.
+That's why **learning QGIS with the Knight Foundation for journalists was a great choice:** The course itself provided additional readings, videos, examples, reflections, and collective debates as well as opportunities for writing essays.
 
 
-Detail of map folders in this repo: goal, skills, sources
-==========================================================
+Repo folder detail: goal, skills, sources, maps
+===============================================
 
 **First map**
 -------------
