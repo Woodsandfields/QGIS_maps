@@ -5,7 +5,7 @@ README
 
 <a href="www.taz.de">Go to 'World Fertility' presentation + map</a>
 
-[create an anchor](#First-map)
+[create an anchor](#first-map)
 
  <img align = "right" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/COUNTRY_AIRPORTS/WorldAirports.png" alt="Airport map" width="200"/> **QGIS is a free and open-source popular cross-platform desktop GIS application** allowing plugins written in Python and C++. GIS stands for "geographic information system". It is a system designed to capture, store, manipulate, analyze, manage, and present spatial or geographic data.
 
