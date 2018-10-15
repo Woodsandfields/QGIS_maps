@@ -21,8 +21,8 @@ That's why **learning QGIS with the Knight Foundation for journalists was a grea
 Repo folder detail: goal, skills, sources, maps
 ===============================================
 
-**First map**
--------------
+First map
+---------
 
 - Importing files
 - Understanding shapefiles
