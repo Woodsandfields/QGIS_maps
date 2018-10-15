@@ -3,7 +3,9 @@ README
 
 **This repository gathers different (elements of) mapping projects made with QGIS software.**
 
-<a href="Fertility map">Go to 'World Fertility' presentation + map</a>
+<a href="www.taz.de">Go to 'World Fertility' presentation + map</a>
+
+[create an anchor](#First-map)
 
  <img align = "right" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/COUNTRY_AIRPORTS/WorldAirports.png" alt="Airport map" width="200"/> **QGIS is a free and open-source popular cross-platform desktop GIS application** allowing plugins written in Python and C++. GIS stands for "geographic information system". It is a system designed to capture, store, manipulate, analyze, manage, and present spatial or geographic data.
 
@@ -36,7 +38,6 @@ Repo folder detail: goal, skills, sources, maps
 **Fertility rates by country in the world**
 -------------------------------------------
 
-<div id="Fertility map">
 Making a choropleth map showing the fertility rates across the globe.</div>
 
 *Skills learned:*
