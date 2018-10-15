@@ -3,9 +3,30 @@ README
 
 **This repository gathers different (elements of) mapping projects made with QGIS software.**
 
-<a href="www.taz.de">Go to 'World Fertility' presentation + map</a>
+**Menu**
 
-[create an anchor](#first-map)
+*Around the Knight Foundation course:*
+
+
+1. [Introduction](#introduction)
+1. [First Map](#first-map)
+1. [World Fertility choropleth map](#fertility-rates-by-country-in-the-world)
+1. [San Marino population: a dot-density map](#san-marino)
+1. [Country airports: a point-in-polygon (pip) analysis](#country-airports)
+1. [US Hospitals: creating buffer zones](#us-hospitals)
+1. [Geocoding health services in Austin and insert them](#geocoding-austin-health-services)
+1. [Simplifying maps](#simplifying-maps)
+
+*Since then:*
+
+1. Improving maps for the Knight Foundation (see folders)
+1. Goofing around with labels 
+1. Creating a hexagram map 
+
+
+
+Introduction
+------------
 
  <img align = "right" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/COUNTRY_AIRPORTS/WorldAirports.png" alt="Airport map" width="200"/> **QGIS is a free and open-source popular cross-platform desktop GIS application** allowing plugins written in Python and C++. GIS stands for "geographic information system". It is a system designed to capture, store, manipulate, analyze, manage, and present spatial or geographic data.
 
@@ -35,8 +56,8 @@ First map
 <img align="center" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/THEFIRSTMAP/physicalRegions.png" /><img align="center" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/THEFIRSTMAP/AtlanticCountries.png"  /><img align="center" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/THEFIRSTMAP/Europe.png"  /><img align="center" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/THEFIRSTMAP/Tropics.png"  />
 
 
-**Fertility rates by country in the world**
--------------------------------------------
+Fertility rates by country in the world
+---------------------------------------
 
 Making a choropleth map showing the fertility rates across the globe.</div>
 
@@ -55,8 +76,8 @@ Making a choropleth map showing the fertility rates across the globe.</div>
 
 ![Fertility Map](https://github.com/Woodsandfields/QGIS_maps/blob/master/WORLD_FERTILITY/World%20Fertility%20Rates.png)
 
-**San Marino**
---------------
+San Marino
+----------
 
 This map intends to show a dot-density map for the small state of San Marino: each point represents here an habitant.
 
@@ -73,8 +94,8 @@ This map intends to show a dot-density map for the small state of San Marino: ea
 ![San Marino Map](https://github.com/Woodsandfields/QGIS_maps/blob/master/SAN_MARINO/SanMarino.png)
 
 
-**Country Airports**
----------------------
+Country Airports
+----------------
 
 The idea is to run a point-in-polygon analysis so as compute and visualize how many airports are in each country.
 
@@ -113,7 +134,7 @@ Showing US hospitals on a map and creating point buffers to show how many people
 
 ![US hospital buffer map](https://github.com/Woodsandfields/QGIS_maps/blob/master/HOSPITALS/US_hospitals_FINAL_MAP.png)
 
-geocoding health services Austin 
+geocoding Austin health services  
 --------------------------------
 
 Goal: Geocode data about health services in Austin to map them
