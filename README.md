@@ -3,7 +3,8 @@ README
 
 **This repository gathers different (elements of) mapping projects made with QGIS software.**
 
-**Menu**
+Menu
+----
 
 *Around the Knight Foundation course:*
 
@@ -19,8 +20,7 @@ README
 
 *Since then:*
 
-1. Improving maps for the Knight Foundation (see folders)
-1. Goofing around with labels 
+1. Improving former maps / trying new things (see folders)
 1. Creating a hexagram map 
 
 
@@ -39,12 +39,10 @@ Although the maps might look rudimentary, **this README will help you** navigate
 That's why **learning QGIS with the Knight Foundation for journalists was a great choice:** The course itself provided additional readings, videos, examples, reflections, and collective debates as well as opportunities for writing essays.
 
 
-Repo folder detail: goal, skills, sources, maps
-===============================================
-
 First map
----------
+=========
 
+*Goals/skills:*
 - Importing files
 - Understanding shapefiles
 - Discovering the QGIS interface and the diverse selection tools
@@ -53,11 +51,12 @@ First map
 *Sources:*
 - <https://www.naturalearthdata.com/downloads/> (small scale map, cultural)
 
-src="https://github.com/Woodsandfields/QGIS_maps/blob/master/THEFIRSTMAP/Tropics.png"  />
+*Comment on the map*: I played with the label function and made several maps using different parameters and various files from naturalearthdata.com. You can [find them here](https://github.com/Woodsandfields/QGIS_maps/blob/master/THEFIRSTMAP/README.md)
+![first map](https://github.com/Woodsandfields/QGIS_maps/blob/master/THEFIRSTMAP/Tropics.png)
 
 
 Fertility rates by country in the world
----------------------------------------
+=======================================
 
 Making a choropleth map showing the fertility rates across the globe.</div>
 
@@ -77,7 +76,7 @@ Making a choropleth map showing the fertility rates across the globe.</div>
 ![Fertility Map](https://github.com/Woodsandfields/QGIS_maps/blob/master/WORLD_FERTILITY/World%20Fertility%20Rates.png)
 
 San Marino
-----------
+==========
 
 This map intends to show a dot-density map for the small state of San Marino: each point represents here an habitant.
 
@@ -95,7 +94,7 @@ This map intends to show a dot-density map for the small state of San Marino: ea
 
 
 Country Airports
-----------------
+================
 
 The idea is to run a point-in-polygon analysis so as compute and visualize how many airports are in each country.
 
@@ -114,7 +113,7 @@ The idea is to run a point-in-polygon analysis so as compute and visualize how m
 ![final Airport Map](https://github.com/Woodsandfields/QGIS_maps/blob/master/COUNTRY_AIRPORTS/WorldAirports.png)
 
 US hospitals
-------------
+============
 
 Showing US hospitals on a map and creating point buffers to show how many people in the country live within35 miles of a hospital.
 
@@ -135,7 +134,7 @@ Showing US hospitals on a map and creating point buffers to show how many people
 ![US hospital buffer map](https://github.com/Woodsandfields/QGIS_maps/blob/master/HOSPITALS/US_hospitals_FINAL_MAP.png)
 
 geocoding Austin health services  
---------------------------------
+================================
 
 Goal: Geocode data about health services in Austin to map them
 
@@ -156,7 +155,7 @@ Goal: Geocode data about health services in Austin to map them
 
 
 Simplifying maps
-----------------
+================
 
 Simplifying maps helps get to the adequate level of details while saving on file size, which can prove more convenient, e.g. in order to publish it on the web.
 
