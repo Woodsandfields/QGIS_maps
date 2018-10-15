@@ -53,7 +53,7 @@ First map
 *Sources:*
 - <https://www.naturalearthdata.com/downloads/> (small scale map, cultural)
 
-<img align="center" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/THEFIRSTMAP/physicalRegions.png" /><img align="center" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/THEFIRSTMAP/AtlanticCountries.png"  /><img align="center" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/THEFIRSTMAP/Europe.png"  /><img align="center" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/THEFIRSTMAP/Tropics.png"  />
+src="https://github.com/Woodsandfields/QGIS_maps/blob/master/THEFIRSTMAP/Tropics.png"  />
 
 
 Fertility rates by country in the world
