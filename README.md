@@ -29,6 +29,12 @@ Repo folder detail: goal, skills, sources, maps
 *Sources:*
 - <https://www.naturalearthdata.com/downloads/> (small scale map, cultural)
 
+<img align="center" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/THEFIRSTMAP/physicalRegions.png" width="300" />
+<img align="center" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/THEFIRSTMAP/AtlanticCountries.png" width="300" />
+<img align="center" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/THEFIRSTMAP/Europe.png" width="300" />
+<img align="center" src="https://github.com/Woodsandfields/QGIS_maps/blob/master/THEFIRSTMAP/Tropics.png" width="300" />
+
+
 
 **Fertility rates by country in the world**
 -------------------------------------------
