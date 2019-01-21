@@ -21,7 +21,7 @@ Menu
 
 1. Improving former maps / trying new things (see folders)
 1. Creating a hexagram map 
-
+1. going on with maps using R and Python
 
 
 Introduction
