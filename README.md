@@ -6,7 +6,7 @@ README
 Menu
 ----
 
-*Please find below a detailed description of this repository's folders:*
+*Menu:*
 
 1. [Introduction](#introduction)
 1. [First Map](#first-map)
