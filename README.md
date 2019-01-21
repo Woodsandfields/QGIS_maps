@@ -6,7 +6,7 @@ README
 Menu
 ----
 
-*Please find below (1 map example for each):*
+*Please find below a detailed description of this repository's folders:*
 
 1. [Introduction](#introduction)
 1. [First Map](#first-map)
