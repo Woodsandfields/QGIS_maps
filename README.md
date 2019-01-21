@@ -6,8 +6,7 @@ README
 Menu
 ----
 
-*Around the Knight Foundation course:*
-
+*Menu*
 
 1. [Introduction](#introduction)
 1. [First Map](#first-map)
@@ -18,7 +17,7 @@ Menu
 1. [Geocoding health services in Austin and insert them](#geocoding-austin-health-services)
 1. [Simplifying maps](#simplifying-maps)
 
-*Since then:*
+*Working on:*
 
 1. Improving former maps / trying new things (see folders)
 1. Creating a hexagram map 
