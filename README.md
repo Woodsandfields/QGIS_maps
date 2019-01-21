@@ -6,7 +6,7 @@ README
 Menu
 ----
 
-*Menu:*
+*Please find below:*
 
 1. [Introduction](#introduction)
 1. [First Map](#first-map)
