@@ -1,7 +1,9 @@
 README
 ------
 
-**This repository gathers different (elements of) mapping projects made with QGIS software.**
+**This repository gathers different (elements of) mapping projects I made with QGIS software.**
+
+Karine Gantin
 
 Menu
 ----
